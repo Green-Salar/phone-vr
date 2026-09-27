@@ -8,7 +8,11 @@ The browser cannot supply room-scale position, so this is rotation, a thumbstick
 
 The project needs the Meta XR Interaction SDK (the Essentials package, assembly `Oculus.Interaction`).
 
-In Package Manager, choose Add package from disk and select this folder's `package.json`.
+In Package Manager, choose Add package from git URL and paste:
+
+`https://github.com/Green-Salar/phone-vr.git`
+
+To work from a local copy instead, choose Add package from disk and select this folder's `package.json`.
 
 1. Add a `Phone Vr Host` component anywhere in the scene.
 2. On the hand that should be the phone, add `Phone Controller Data Source`. Set Hand to Right or Left.
