@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="..\..\Runtime\PhoneOrientation.cs" />
+    <Compile Include="..\..\Runtime\PhonePage.cs" />
+    <Compile Include="..\..\Runtime\PhoneVrServer.cs" />
+  </ItemGroup>
+</Project>

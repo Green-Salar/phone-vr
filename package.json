@@ -1,0 +1,11 @@
+{
+  "name": "com.phonevr.controller",
+  "version": "0.1.0",
+  "displayName": "Phone VR Controller",
+  "description": "Turns a phone on the same Wi-Fi into a Meta Interaction SDK controller. Headset tracking stays on the Meta SDK. The phone supplies aim, trigger, grip, stick, and face buttons.",
+  "unity": "2022.3",
+  "keywords": ["meta", "vr", "controller", "phone"],
+  "author": {
+    "name": "Phone VR"
+  }
+}

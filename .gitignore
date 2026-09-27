@@ -1,0 +1,7 @@
+.vs/
+bin/
+obj/
+*.pfx
+*.user
+*.suo
+.DS_Store
